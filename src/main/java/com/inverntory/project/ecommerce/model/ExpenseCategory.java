@@ -1,0 +1,5 @@
+package com.inverntory.project.ecommerce.model;
+
+public enum ExpenseCategory {
+    ENTERTAINMENT, GROCERIES, RESTAURANT, UTILITIES, MISC
+}
